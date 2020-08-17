@@ -28,4 +28,4 @@ cmake "$HOME/.." \
 -DSEETA_MODEL_ENCRYPT=ON
 
 make -j16
-
+make install
